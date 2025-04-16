@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-sdk52-react-native-maps",
-    "slug": "expo-sdk52-react-native-maps",
+    "name": "expo-sdk52-supabase",
+    "slug": "expo-sdk52-supabase",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
